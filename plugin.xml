@@ -1,0 +1,18 @@
+<plugin name='sample-data' version='0.1' grailsVersion='1.3.7 &gt; *'>
+  <author>Pablo Alba</author>
+  <authorEmail>àblo.alba@kaleidos.net</authorEmail>
+  <title>Sample Data</title>
+  <description>\
+Offers a service to create several types of sample data, like names, emails, numbers, etc 
+</description>
+  <documentation>http://grails.org/plugin/sample-data</documentation>
+  <resources>
+    <resource>BuildConfig</resource>
+    <resource>Config</resource>
+    <resource>DataSource</resource>
+    <resource>UrlMappings</resource>
+    <resource>net.kaleidos.sampledata.SampleDataService</resource>
+  </resources>
+  <dependencies />
+  <behavior />
+</plugin>
