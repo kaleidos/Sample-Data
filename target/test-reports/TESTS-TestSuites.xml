@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="mithril" id="0" name="SampleDataServiceTests" package="net.kaleidos.sampledata" tests="16" time="0.078" timestamp="2012-04-11T16:22:05">
+      <properties />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testWord" time="0.008" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testWords" time="0.007" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testCapitalWord" time="0.002" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testSentence" time="0.008" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testSpanishName" time="0.005" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testEmail" time="0.002" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testParagraph" time="0.006" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testParagraphs" time="0.011" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testNumberDigits" time="0.002" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testNumberDigitsString" time="0.004" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testTelephoneSpanish" time="0.004" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testFutureDate" time="0.002" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testPastDate" time="0.002" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testVeryPastDate" time="0.002" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testNifSpanish" time="0.003" />
+
+      <testcase classname="net.kaleidos.sampledata.SampleDataServiceTests" name="testZipCodeSpanish" time="0.003" />
+
+      <system-out><![CDATA[--Output from testWord--
+--Output from testWords--
+@@@@ In delectus temporibus eaque qui ducimus accusamus asperiores repellat animi illo dolore neque soluta consequuntur dolorum minus ullam repellat minima repellat dolore eum numquam explicabo nesciunt iure deserunt totam eaque rem expedita illo sunt aliquid iste molestiae accusantium quo deserunt hic unde voluptates rerum aut veritatis eius dolorum repudiandae natus molestias modi quod nostrum saepe nostrum esse aliquid facere harum fugiat fugiat fugit corporis repellendus consectetur nemo repellat mollitia molestiae quis blanditiis porro sint saepe blanditiis sed architecto animi nemo odio dolor molestias non nulla est pariatur illum in animi ullam sequi quam facere molestiae mollitia sunt unde nesciunt nisi
+--Output from testCapitalWord--
+--Output from testSentence--
+--Output from testSpanishName--
+--Output from testEmail--
+--Output from testParagraph--
+--Output from testParagraphs--
+--Output from testNumberDigits--
+--Output from testNumberDigitsString--
+--Output from testTelephoneSpanish--
+--Output from testFutureDate--
+--Output from testPastDate--
+--Output from testVeryPastDate--
+--Output from testNifSpanish--
+--Output from testZipCodeSpanish--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testWord--
+--Output from testWords--
+--Output from testCapitalWord--
+--Output from testSentence--
+--Output from testSpanishName--
+--Output from testEmail--
+--Output from testParagraph--
+--Output from testParagraphs--
+--Output from testNumberDigits--
+--Output from testNumberDigitsString--
+--Output from testTelephoneSpanish--
+--Output from testFutureDate--
+--Output from testPastDate--
+--Output from testVeryPastDate--
+--Output from testNifSpanish--
+--Output from testZipCodeSpanish--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
