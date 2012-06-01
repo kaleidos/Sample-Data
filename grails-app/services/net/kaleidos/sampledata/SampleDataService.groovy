@@ -46,7 +46,13 @@ class SampleDataService {
 	
 	
 	private static Random rand = new Random()
-	
+	static int MAJOR = 1
+        static int MINOR = 0
+        static int TINY = 0
+
+        static String version() {
+            return [MAJOR, MINOR, TINY].join('.')
+        } 
 
 	/**
 	 * 	Returns a random word
@@ -120,7 +126,7 @@ class SampleDataService {
 	 * If `common` is True, then the first paragraph will start with 'Lorem ipsum'
 	 */
 	def paragraphs(count=3, common=true){
-		def txt =''
+		def txt = ''
 		def num = 0
 		if (common){
 			txt = COMMON_P + ' ' + word()+ ' ' + word()+ ' ' + word()+ ' ' + word() +'.'
