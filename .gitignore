@@ -1,0 +1,10 @@
+/target
+/target-eclipse
+/test-reports
+.project
+stacktrace.log
+*.bak
+.metadata
+*.orig
+
+
