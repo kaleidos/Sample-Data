@@ -12,7 +12,7 @@ class SampleDataGrailsPlugin {
 
     // TODO Fill in these fields
     def author = "Pablo Alba"
-    def authorEmail = "àblo.alba@kaleidos.net"
+    def authorEmail = "pablo.alba@kaleidos.net"
     def title = "Sample Data"
     def description = '''\\
 Offers a service to create several types of sample data, like names, emails, numbers, etc 
